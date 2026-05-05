@@ -49,6 +49,8 @@ Soy un profesional con formación híbrida en **Administración de Empresas e In
 | **Conceptos de AWS** | DataCamp | May 2026 | [Ver Credencial](https://www.datacamp.com/completed/statement-of-accomplishment/course/a79e9c93eb336b6d90f49a33c6bc360dee302b75) |
 | **Python** | Google | Ago 2025 | [Ver Credencial](https://www.coursera.org/account/accomplishments/verify/87HQT1GEYDPV) |
 | **LangChain & LLMs** | Coursera | Sep 2025 | [Ver Credencial](https://www.coursera.org/account/accomplishments/verify/W6FE15CMH2ME) |
+| **Introduction to Databricks Genie** | DataCamp | May 2026 | [Ver Credencial](https://www.datacamp.com/completed/statement-of-accomplishment/course/a7cc31dc847fc50a47034bbb23dc87849e42d996?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) |
+| **Introducción a Databricks SQL** | DataCamp | May 2026 | [Ver Credencial](https://www.datacamp.com/completed/statement-of-accomplishment/course/741519e10252718560a6b14e0a82333ddb10a643?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) |
 
 ---
 📫 **Contacto:** [andres.4589.af@gmail.com](mailto:andres.4589.af@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andres-esteban-fonseca-bb2241ba)
