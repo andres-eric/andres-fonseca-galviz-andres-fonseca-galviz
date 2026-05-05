@@ -1,6 +1,6 @@
 # andres-fonseca-galviz
 
-## 🏆 Certificaciones Destacadas
+##  Certificaciones Destacadas
 
 
 
