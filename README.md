@@ -7,7 +7,7 @@ Soy un profesional con formación híbrida en **Administración de Empresas e In
 
 ## 🚀 Perfil Profesional
 * **Liderazgo en Analítica:** Consolidación de datos de áreas Comercial, Financiera, Compras y Planeación en una única fuente de verdad.
-* **Analítica Predictiva:** Desarrollo de modelos para la optimización de tiempos de entrega en cadena de suministro.
+* **Analítica Predictiva:** Desarrollo de modelos para la optimización de tiempos de entrega y predicción de mantenimiento.
 * **Arquitectura Técnica:** Automatización mediante microservicios (Java/Spring Boot) e integración de flujos de IA (LangChain/Gemini).
 * **Visualización:** Implementación de tableros estratégicos en Power BI para la toma de decisiones gerenciales.
 
@@ -26,10 +26,15 @@ Soy un profesional con formación híbrida en **Administración de Empresas e In
 ---
 
 ## 📊 Proyectos Destacados
-* **[IA Calidad - Evaluación de Proveedores](https://github.com/andres-eric/IA-geminis/blob/main/Proyecto%20tex%20to%20sql%20compras.ipynb):** Plataforma para cruzar indicadores de calidad con información operativa del ERP mediante LangChain y Gemini.
-* **[Predicción de Tiempos de Entrega](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2946925108829302/2006462781446613/2262260412468527/latest.html):** Modelo de clasificación Random Forest desarrollado en Databricks para anticipar retrasos en importaciones.
-* **[Scraping Financiero BVC](https://github.com/Andres-Fonseca/scraping/blob/main/scraping%20.py):** Sistema de extracción inteligente de datos bursátiles integrando LangChain y LLM Gemini.
-* **[Clasificación de Materia Prima](https://github.com/andres-eric/Modelo-de-TEXTO-categorizacion-de-materia-prima/blob/main/texto.ipynb):** NLP aplicado a la categorización automática de descripciones textuales mediante LinearSVC.
+
+* **[Generación de Consultas SQL con LLM (Gemini 1.5)](https://github.com/andres-eric/IA-geminis/blob/main/Proyecto%20tex%20to%20sql_compras.ipynb):** Traducción de lenguaje natural a consultas SQL precisas para SQL Server, utilizando LangChain y Gemini para interactuar con metadatos de ERP.
+* **[ETL Databricks - Dataset Colombianos](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2946925108829302/1296914061467242/2262260412468527/latest.html):** Proceso de extracción, transformación y carga (ETL) utilizando SQL y PySpark.
+* **[Análisis Predictivo de Reparaciones](https://github.com/Andres-Fonseca/data_prediction_Reparaciones):** Modelado predictivo de mantenimiento de equipos usando técnicas de Machine Learning para estimar cantidades futuras de reparaciones.
+* **[Cumplimiento de Fechas de Entrega (Importaciones)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2946925108829302/2006462781446613/2262260412468527/latest.html):** Modelo de clasificación Random Forest en Databricks para anticipar retrasos en la cadena de suministro.
+* **[Clasificación de Materia Prima (NLP)](https://github.com/andres-eric/Modelo-de-TEXTO-categorizacion-de-materia-prima/blob/main/texto.ipynb):** Clasificación automática de materias primas mediante análisis semántico y el modelo LinearSVC.
+* **[Modelo SQL para Exportación de Flores](https://drive.google.com/drive/folders/1K2913NPnpLn041phKdMu5l3JgWhYxIUR?usp=drive_link):** Diseño de arquitectura de bases de datos para gestión de inventarios y ventas.
+* **[Dashboard Power BI - Procesos de Producción](https://app.powerbi.com/links/Q7EPozXlw2?ctid=375a5c51-5ca8-409a-be69-5bae38c7365c&pbi_source=linkShare):** Panel interactivo para analizar la carga de trabajo y optimización de recursos en cambios de referencia.
+* **[Scraping Financiero BVC con LLM](https://github.com/Andres-Fonseca/scraping/blob/main/scraping_.py):** Sistema avanzado de Web Scraping y extracción inteligente de datos bursátiles con Python, LangChain y Gemini.
 
 ---
 
@@ -46,4 +51,4 @@ Soy un profesional con formación híbrida en **Administración de Empresas e In
 | **LangChain & LLMs** | Coursera | Sep 2025 | [Ver Credencial](https://www.coursera.org/account/accomplishments/verify/W6FE15CMH2ME) |
 
 ---
-📫 **Contacto:** [Andres Esteban Fonseca Galviz](mailto:andres.4589.af@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andres-esteban-fonseca-bb2241ba)
+📫 **Contacto:** [andres.4589.af@gmail.com](mailto:andres.4589.af@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andres-esteban-fonseca-bb2241ba)
