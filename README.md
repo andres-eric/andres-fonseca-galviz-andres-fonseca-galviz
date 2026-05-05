@@ -44,4 +44,4 @@ Soy un profesional con formación híbrida en **Administración de Empresas e In
 | **LangChain & LLMs** | Coursera | Sep 2025 | [Ver Credencial](https://www.coursera.org/account/accomplishments/verify/W6FE15CMH2ME) |
 
 ---
-📫 **Contacto:** [Andres Esteban Fonseca Galviz](mailto:aesteban.fonseca@udea.edu.co) | [LinkedIn](https://www.linkedin.com)
+📫 **Contacto:** [Andres Esteban Fonseca Galviz](mailto:andres.4589.af@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andres-esteban-fonseca-bb2241ba)
